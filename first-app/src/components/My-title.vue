@@ -9,7 +9,7 @@
         width: 400px;
         padding: 20px;
         margin: 100px auto;
-        background: rgb(9, 49, 231);
+        background-color: #41b883;
         border-radius: 10px;
     }
 </style>
